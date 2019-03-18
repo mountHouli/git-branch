@@ -1,3 +1,3 @@
 # git-branch
 
-This is the README!
+This is the README.md!
